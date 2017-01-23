@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
     s.license          = 'MIT'
     s.homepage         = "https://github.com/efremidze/Hop"
     s.author           = { "Lasha Efremidze" => "efremidzel@hotmail.com" }
-    s.summary          = ""
+    s.summary          = "Details Transition (inspired by Tinder)"
     s.source           = { :git => 'https://github.com/efremidze/Hop.git', :tag => s.version }
     s.source_files     = "Sources/*.swift"
     s.ios.deployment_target = '8.0'
